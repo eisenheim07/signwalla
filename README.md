@@ -1,5 +1,5 @@
 
-# Signwalla
+# Signwalla App
 
 Signwalla is a chat application built with Flutter.
 
