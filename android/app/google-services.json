@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773875786598",
+    "project_id": "chatapp-54f3a",
+    "storage_bucket": "chatapp-54f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773875786598:android:ac5f542aaa8f430a9a5ea7",
+        "android_client_info": {
+          "package_name": "com.example.signwalla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OcdC5r__ogixRAWJZiQf40gPC3TwY_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
