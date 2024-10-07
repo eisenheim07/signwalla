@@ -11,7 +11,7 @@ You can download the APK from [here](assets/apk-file/app-release.apk).
 
 ### Prerequisites
 
-Before running this project, make sure you have Flutter installed on your system. If you haven't already, you can download it from the [Flutter website](https://flutter.dev/docs/get-started/install).
+Before running this project, make sure you have Flutter installed on your system. If you haven't already, you can download it from the [Flutter website](https://docs.flutter.dev/get-started/install).
 
 ### Setup Instructions
 
